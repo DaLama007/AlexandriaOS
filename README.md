@@ -1,6 +1,12 @@
-**AlexandriaOS**
+# AlexandriaOS
+## Project Idea 
 
-# Custom MP3 Player — Parts List
+The idea of this project is to create an open-source mp3 player that one can pretty easily build from scratch. 
+This mp3 player is special in a way that it auto-saves the state of audiobooks started by the user.
+It utilizes a display for all visual output and input. It has a power button, a 3d printed case and a headphone jack input.
+
+
+## Custom MP3 Player — Parts List
 
 | Component | Price | Link |
 |---|---|---|
